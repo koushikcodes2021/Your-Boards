@@ -75,6 +75,7 @@ const Register = () => {
                 value={name}
                 onChange={(e) => onChange(e)}
               />
+              
             </Grid>
             <Grid item xs={12}>
               <TextField
